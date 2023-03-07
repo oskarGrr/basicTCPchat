@@ -1,0 +1,10 @@
+x64
+TCPIPClient/x64
+TCPIPClient/TCPIPClient.vcxprojx.filters
+TCPIPClient/TCPIPClient.vcxprojx.user
+
+TCPIPServer/x64Î
+TTCPIPServer/TCPIPServer.vcxproj.filters
+TTCPIPServer/TCPIPServer.vcxproj.user
+
+.vs
